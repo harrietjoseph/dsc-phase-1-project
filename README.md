@@ -1,5 +1,5 @@
 # Phase 1 Project
-TASK : DATA SCIENCE PROJECT ON THE PEFORMANCE OF BOXOFFICE FILMS TO GIVE ACCURATE INSIGHTS TO THE HEAD OF MICROSOFT NEW MOVIE STUDIO ON WHAT STEPS TO TAKE FOR BETTER PERFOMANCE IN THE BUSINESS
+###TASK : DATA SCIENCE PROJECT ON THE PEFORMANCE OF BOXOFFICE FILMS TO GIVE ACCURATE INSIGHTS TO THE HEAD OF MICROSOFT NEW MOVIE STUDIO ON WHAT STEPS TO TAKE FOR BETTER PERFOMANCE IN THE BUSINESS
 Microsft company plans on creating a new movie studio like other companies that are already in the film making industry,creating original video content. This is a new field that Microsoft wants to explore and therefore as a company they have very little knowledge about it. As a data scientist, my responsibility is to explore on data and find out the best perfoming box office films, so as to give insights to the Head of Microsoft's new movie studio ; to help decide what types of films should be created.
 
 
